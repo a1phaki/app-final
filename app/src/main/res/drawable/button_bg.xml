@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/light_gray" /> <!-- 设置圆的背景颜色 -->
+    <size android:width="45dp" android:height="45dp" /> <!-- 设置圆的尺寸 -->
+    <corners android:radius="30dp" /> <!-- 设置圆的半径 -->
+</shape>

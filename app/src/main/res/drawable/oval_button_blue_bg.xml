@@ -1,0 +1,25 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- 按鈕正常的背景 -->
+        <item android:state_enabled="true">
+                <shape>
+                        <solid android:color="@color/fb" /> <!-- 設置背景颜色 -->
+                        <corners android:radius="30dp" /> <!-- 設置圓角 -->
+                </shape>
+        </item>
+
+        <!-- 按鈕按下的背景 -->
+        <item android:state_pressed="true">
+                <shape>
+                        <solid android:color="@color/blue" /> <!-- 設置按下的背景颜色 -->
+                        <corners android:radius="30dp" /> <!-- 設置圓角 -->
+                </shape>
+        </item>
+
+        <!-- 按鈕禁用的背景 -->
+        <item android:state_enabled="false">
+                <shape>
+                        <solid android:color="@color/light_gray" /> <!-- 設置禁用的背景颜色 -->
+                        <corners android:radius="30dp" /> <!-- 設置圓角 -->
+                </shape>
+        </item>
+</selector>

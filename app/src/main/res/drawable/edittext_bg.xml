@@ -1,0 +1,8 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/smoke" /> <!-- 設置背景颜色灰色 -->
+    <corners android:radius="200dp" /> <!-- 設置圓角 -->
+    <stroke
+        android:color="@color/white"
+        android:width="2dp" /> <!-- 設置邊寬的寬度 -->
+</shape>
+

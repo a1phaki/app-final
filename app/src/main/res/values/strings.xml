@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">appFinal</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="register">Register</string>
+    <string name="what_s_your_email">What\'s your email?</string>
+    <string name="create_a_password">Create a password</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="what_s_your_birthday">What\'s your birthday?</string>
+    <string name="what_s_your_gender">What\'s your gender?</string>
+    <string name="do_you_already_have_an_account">Do you already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="male">Male</string>
+    <string name="_886">+886</string>
+    <string name="female">Female</string>
+    <string name="otp">OTP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="we_re_so_excited_to_see_you_again">We\'re so excited to see you again!</string>
+    <string name="account_information">Account Information</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="sign_up_free">Sign up free</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="back">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recently_watched">Recently watched</string>
+    <string name="home">Home</string>
+    <string name="game">Game</string>
+    <string name="use_8_characters_with_uppercase_lowercase_and_a_digit">Use 8+ characters with uppercase, lowercase, and a digit.</string>
+    <string name="game_zone">Game Zone</string>
+    <string name="create_post">Create post</string>
+    <string name="post">Post</string>
+    <string name="login_success">登入成功</string>
+    <string name="login_fail">登入失敗</string>
+</resources>

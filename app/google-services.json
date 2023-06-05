@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533246545289",
+    "firebase_url": "https://register-945ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "register-945ad",
+    "storage_bucket": "register-945ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533246545289:android:90bd04e9ddef5c41eaa558",
+        "android_client_info": {
+          "package_name": "com.example.appFinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533246545289-edvv18e8gi0qa1el1gfrlo3ogk2qrfnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appFinal",
+            "certificate_hash": "8cc7dc2784fd2f8c422971c38ad64ea800d64728"
+          }
+        },
+        {
+          "client_id": "533246545289-n7sidusbp9up27mg1lgika6r8epms5dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXEC9YceujzQmcTjg2NgynxYBhbcisI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533246545289-n7sidusbp9up27mg1lgika6r8epms5dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

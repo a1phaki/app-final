@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/HomePage"
+        android:icon="@drawable/home"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/GamePage"
+        android:icon="@drawable/game"
+        android:title="@string/game"/>
+
+    <item
+        android:id="@+id/FriendPage"
+        android:icon="@drawable/friend"
+        android:title="friend"/>
+
+    <item
+        android:id="@+id/NotificationPage"
+        android:icon="@drawable/notification"
+        android:title="notification"/>
+
+</menu>

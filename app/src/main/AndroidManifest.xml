@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Register"
+        tools:targetApi="31">
+        <activity
+            android:name=".HogwartsChat"
+            android:exported="false" />
+        <activity
+            android:name=".EldenRingChat"
+            android:exported="false" />
+        <activity
+            android:name=".GodOfWarChat"
+            android:exported="false" />
+        <activity
+            android:name=".PokemonChat"
+            android:exported="false" />
+        <activity
+            android:name=".Hogwarts"
+            android:exported="false" />
+        <activity
+            android:name=".Eldenring"
+            android:exported="false" />
+        <activity
+            android:name=".Godofwar"
+            android:exported="false" />
+        <activity
+            android:name=".Hogwart"
+            android:exported="false" />
+        <activity
+            android:name=".Pokemon"
+            android:exported="false" />
+        <activity
+            android:name=".AddFriend"
+            android:exported="false" />
+        <activity
+            android:name=".GodOfWarRagnarok"
+            android:exported="false" />
+        <activity
+            android:name=".God_Of_War_Ragnarok"
+            android:exported="false" />
+        <activity
+            android:name=".ZeldaChat"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Zelda"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
